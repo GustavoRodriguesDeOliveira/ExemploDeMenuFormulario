@@ -1,0 +1,14 @@
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\bin\Debug\ExemploDeMenu.exe.config
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\bin\Debug\ExemploDeMenu.exe
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\bin\Debug\ExemploDeMenu.pdb
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.csproj.AssemblyReference.cache
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Atualizar.resources
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.cadastrar.resources
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Consultar.resources
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Excluir.resources
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Form1.resources
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.Properties.Resources.resources
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.csproj.GenerateResource.cache
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.exe
+C:\Users\gustavo.roliveira24\source\repos\ExemploDeMenu\ExemploDeMenu\obj\Debug\ExemploDeMenu.pdb
